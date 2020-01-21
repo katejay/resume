@@ -16,11 +16,11 @@ html {
   height: 800px;
 }
 
-#skills {
-  height: 800px;
+#projects {
+  height: 1200px;
 }
 
-#interests {
+#skills {
   height: 800px;
 }
 
@@ -197,7 +197,7 @@ body{
   color:#696969;
 }
 
-.wrapper .main_content #education .div3 .qualification .info h4,p{
+.wrapper .main_content #education .div3 .qualification .info h4{
   font-size:15px;
   color:#A9A9A9;
 }
@@ -208,34 +208,81 @@ body{
 
 .wrapper .main_content #education .div3 .qualification .date h3 {
   color:#4b4276;
+  font-size:15px;
 }
 
 
 
 
-.wrapper .main_content #skills .div4{
+.wrapper .main_content #projects .div4{
   padding-top:150px;
   padding-left:50px;
 }
 
-.wrapper .main_content #skills .div4 h1{
+.wrapper .main_content #projects .div4 h1{
   font-size:50px;
   padding-bottom:30px;
 }
 
+.wrapper .main_content #projects .div4 .title{
+  padding-top:30px;
+}
+
+.wrapper .main_content #projects .div4 .title .info{
+  float:left;
+}
+
+.wrapper .main_content #projects .div4 .title .info h2{
+  font-size:25px;
+}
+
+.wrapper .main_content #projects .div4 .title .info h3{
+  padding-top:5px;
+  font-size:12px;
+  color:#696969;
+}
+
+.wrapper .main_content #projects .div4 .title .info h4{
+  font-size:15px;
+  color:#A9A9A9;
+}
+
+.wrapper .main_content #projects .div4 .title .date{
+  padding-left:900px;
+}
+
+.wrapper .main_content #projects .div4 .title .date h3 {
+  color:#4b4276;
+  font-size:15px;
+}
 
 
-.wrapper .main_content #interests .div5{
+
+
+.wrapper .main_content #skills .div5{
   padding-top:150px;
   padding-left:50px;
 }
 
-.wrapper .main_content #interests .div5 h1{
+.wrapper .main_content #skills .div5 h1{
   font-size:50px;
   padding-bottom:30px;
 }
 
+.wrapper .main_content #skills .div5 h2{
+  padding-top:35px;
+  font-size:20px;
+  color:#696969;
+}
 
+.wrapper .main_content #skills .div5 .domain{
+  padding-top:20px;
+  font-size:50px;
+}
+
+.wrapper .main_content #skills .div5 .domain a{
+  padding-right:20px;
+}
 
 
 
