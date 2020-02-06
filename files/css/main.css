@@ -1,0 +1,52 @@
+html{
+  scroll-behavior: smooth;
+}
+.profile{
+    height:170px;
+	width:170px;margin-top:20px;
+	margin-left:35px;
+	margin-bottom:10px;
+}
+#sidebaricon{
+	margin-right:20px;
+}
+#social{
+	font-size: 75px;
+	padding-right:15px;
+}
+.project-light{
+	font-size:17px; color:white;
+}
+.project-dark{
+	font-size:17px; color:black;
+}
+#domain{
+	font-size: 75px;
+	padding-right:15px;
+}
+#trophy{
+	color: #FAC21B;
+	font-size: 25px;
+}
+.download-resume{
+    background-color: #253544;
+    color: white;
+    border: 2px solid #e7e7e7;
+    border-radius: 8px;
+    position: absolute;
+    top: 500px;
+    left: 20%;
+}
+.download-resume a{
+    width: 100px;
+    height: 40px;
+    line-height: 45px;
+    text-align: center;
+    margin: 0 15px;
+    color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.download-resume i{
+    padding-left: 15px;
+}
